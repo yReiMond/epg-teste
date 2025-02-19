@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="9999">
+    <display-name>TV ITNET</display-name>
+  </channel>
+  <programme start="20250218170000 -0000" stop="20250218180000 -0000" channel="9999">
+    <title lang="pt">TESTE</title>
+    <desc lang="pt">TESTE DESCRIÇÃO</desc>
+    <category lang="pt">TESTE CATEGORIA</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250218180000 -0000" stop="20250218190000 -0000" channel="9999">
+    <title lang="pt">FESTA DOS CAMINHONEIROS - REPRISE</title>
+    <desc lang="pt">A12</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250218190000 -0000" stop="20250218200000 -0000" channel="9999">
+    <title lang="pt">BREAKING NEWS - REPRISE</title>
+    <desc lang="pt">LIVRE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+</tv>
