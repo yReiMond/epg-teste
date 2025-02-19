@@ -1,0 +1,1798 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="9999">
+    <display-name>TV ITNET</display-name>
+  </channel>
+  <programme start="20250219000000 -0000" stop="20250219060000 -0000" channel="9999">
+    <title lang="pt">FESTA DOS CAMINHONEIROS - REPRISE</title>
+    <desc lang="pt">Reprise de shows exibidos na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>PG_13</value>
+    </rating>
+  </programme>
+  <programme start="20250219060000 -0000" stop="20250219073000 -0000" channel="9999">
+    <title lang="pt">BREAKING NEWS - REPRISE</title>
+    <desc lang="pt">Com apresentação de Carlos Jeferson, o telejornal apresenta um panorama do dia na hora do almoço, de forma dinâmica e descontraída.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219073000 -0000" stop="20250219090000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTÍCIAS - REPRISE</title>
+    <desc lang="pt">Com apresentação de *, o telejornal resume os fatos do dia com dinamismo e credibilidade.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219090000 -0000" stop="20250219093000 -0000" channel="9999">
+    <title lang="pt">RECEITAS BRASIL com LETÍCIA MASSULA</title>
+    <desc lang="pt">A chef de cozinha Letícia Massula e convidados especiais apresentam a culinária brasileira através de pratos típicos e releituras modernas dos pratos mais tradicionais do Brasil.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219093000 -0000" stop="20250219100000 -0000" channel="9999">
+    <title lang="pt">RECEITAS BRASIL com LETÍCIA MASSULA</title>
+    <desc lang="pt">A chef de cozinha Letícia Massula e convidados especiais apresentam a culinária brasileira através de pratos típicos e releituras modernas dos pratos mais tradicionais do Brasil.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219100000 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">CAMPEONATO SERGIPANO - REPRISE</title>
+    <desc lang="pt">Reprise de partidas das ultimas rodadas do Campeonato Sergipano de 2025.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219133000 -0000" channel="9999">
+    <title lang="pt">BREAKING NEWS</title>
+    <desc lang="pt">Com apresentação de Carlos Jeferson, o telejornal apresenta um panorama do dia na hora do almoço, de forma dinâmica e descontraída.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219133000 -0000" stop="20250219150000 -0000" channel="9999">
+    <title lang="pt">SESSÃO PIPOCA</title>
+    <desc lang="pt">Sessão de Filmes da TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20250219150000 -0000" stop="20250219171500 -0000" channel="9999">
+    <title lang="pt">CAMPEONATO SERGIPANO - REPRISE</title>
+    <desc lang="pt">Reprise de partidas das ultimas rodadas do Campeonato Sergipano de 2025.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219171500 -0000" stop="20250219180000 -0000" channel="9999">
+    <title lang="pt">O AMOR VENCE A DOR com WÊNIA BARROS</title>
+    <desc lang="pt">Wenia Barros e o Padre Fábio Negromonte transmitem mensagens de fé e otimismo.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219180000 -0000" stop="20250219183000 -0000" channel="9999">
+    <title lang="pt">TUNADAS</title>
+    <desc lang="pt">Suzane Carvalho, uma das pilotas de kart mais famosas do Brasil, vive experiências de tirar o fôlego em categorias do automobilismo com muita adrenalina e velocidade.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219183000 -0000" stop="20250219190000 -0000" channel="9999">
+    <title lang="pt">TUNADAS</title>
+    <desc lang="pt">Suzane Carvalho, uma das pilotas de kart mais famosas do Brasil, vive experiências de tirar o fôlego em categorias do automobilismo com muita adrenalina e velocidade.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219190000 -0000" stop="20250219203000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTÍCIAS</title>
+    <desc lang="pt">Com apresentação de *, o telejornal resume os fatos do dia com dinamismo e credibilidade.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219203000 -0000" stop="20250219214500 -0000" channel="9999">
+    <title lang="pt">SESSÃO PIPOCA</title>
+    <desc lang="pt">Sessão de Filmes da TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20250219214500 -0000" stop="20250219222000 -0000" channel="9999">
+    <title lang="pt">O MISTÉRIO DE NHEMYRÔ</title>
+    <desc lang="pt">Série documental que investiga uma série de casos de suicídio de indígenas em diferentes regiões do Brasil que assolam os povos Guaranis-Kaiowá e Karajá. </desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20250219222000 -0000" stop="20250219225500 -0000" channel="9999">
+    <title lang="pt">O MISTÉRIO DE NHEMYRÔ</title>
+    <desc lang="pt">Série documental que investiga uma série de casos de suicídio de indígenas em diferentes regiões do Brasil que assolam os povos Guaranis-Kaiowá e Karajá. </desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20250219225500 -0000" stop="20250219233000 -0000" channel="9999">
+    <title lang="pt">TERRA BRASIL</title>
+    <desc lang="pt">Viaje com Aruay Goldschmidt e Anderson Santos para lugares no Brasil onde as belezas naturais imperam, com foco na sustentabilidade e preservação ambiental.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219233000 -0000" stop="20250219000000 -0000" channel="9999">
+    <title lang="pt">TERRA BRASIL</title>
+    <desc lang="pt">Viaje com Aruay Goldschmidt e Anderson Santos para lugares no Brasil onde as belezas naturais imperam, com foco na sustentabilidade e preservação ambiental.</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219000000 -0000" stop="20250219010000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010000 -0000" stop="20250219020000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219020000 -0000" stop="20250219030000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219030000 -0000" stop="20250219040000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219040000 -0000" stop="20250219043000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219043000 -0000" stop="20250219050000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219050000 -0000" stop="20250219053000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219053000 -0000" stop="20250219060000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219060000 -0000" stop="20250219070000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219070000 -0000" stop="20250219080000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219080000 -0000" stop="20250219080500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219080500 -0000" stop="20250219081500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219081500 -0000" stop="20250219084500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219084500 -0000" stop="20250219090000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219090000 -0000" stop="20250219095500 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219095500 -0000" stop="20250219100000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219100000 -0000" stop="20250219104500 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219104500 -0000" stop="20250219110000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219110000 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">REPRISES </title>
+    <desc lang="pt">reprises</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219124500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219124500 -0000" stop="20250219125500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219125500 -0000" stop="20250219135500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219135500 -0000" stop="20250219140000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140000 -0000" stop="20250219144500 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219144500 -0000" stop="20250219145500 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219145500 -0000" stop="20250219150000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219150000 -0000" stop="20250219160000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219160000 -0000" stop="20250219165500 -0000" channel="9999">
+    <title lang="pt">ITA PEDRA BAIANA BONITA</title>
+    <desc lang="pt">Documentario sobre a cidade de Itabaiana/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219165500 -0000" stop="20250219190000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE A PENA VER DE NOVO </title>
+    <desc lang="pt">Reprises de programas já vistos na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219190000 -0000" stop="20250219200000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219200000 -0000" stop="20250219203000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219203000 -0000" stop="20250219210000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219210000 -0000" stop="20250219220000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219220000 -0000" stop="20250219230000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219230000 -0000" stop="20250219234500 -0000" channel="9999">
+    <title lang="pt">ITA PEDRA BAIANA BONITA</title>
+    <desc lang="pt">Documentario sobre a cidade de Itabaiana/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219234500 -0000" stop="20250219235000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219235000 -0000" stop="20250219000000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS PASSADOS NA CIDADE DE ITABAIANA/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219000000 -0000" stop="20250219010000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010000 -0000" stop="20250219020000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219020000 -0000" stop="20250219021000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219021000 -0000" stop="20250219025500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219025500 -0000" stop="20250219030000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219030000 -0000" stop="20250219040000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219040000 -0000" stop="20250219044500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219044500 -0000" stop="20250219045500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219045500 -0000" stop="20250219050000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219050000 -0000" stop="20250219053000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219053000 -0000" stop="20250219060000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219060000 -0000" stop="20250219063000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219063000 -0000" stop="20250219070000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219070000 -0000" stop="20250219080000 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219080000 -0000" stop="20250219081000 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219081000 -0000" stop="20250219081500 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219081500 -0000" stop="20250219084500 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219084500 -0000" stop="20250219085000 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219085000 -0000" stop="20250219090000 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219090000 -0000" stop="20250219100000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219100000 -0000" stop="20250219104500 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219104500 -0000" stop="20250219110000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219110000 -0000" stop="20250219115500 -0000" channel="9999">
+    <title lang="pt">ITA PEDRA BAIANA BONITA</title>
+    <desc lang="pt">Documentario da cidade de Itabaiana/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219115500 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">comercial</title>
+    <desc lang="pt">publicidades</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219140000 -0000" channel="9999">
+    <title lang="pt">Reprise Itnet Noticias</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140000 -0000" stop="20250219140500 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140500 -0000" stop="20250219141500 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219141500 -0000" stop="20250219144500 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219144500 -0000" stop="20250219153000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219153000 -0000" stop="20250219160000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219160000 -0000" stop="20250219170000 -0000" channel="9999">
+    <title lang="pt">PROGRAMA ANDREIA BRADA</title>
+    <desc lang="pt">Programa une informação, debate de temas atuais, música, dança, contando com a interação do público e especialistas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219170000 -0000" stop="20250219190000 -0000" channel="9999">
+    <title lang="pt">JOGO DO CAMPEONATO SERGIPANO 2021</title>
+    <desc lang="pt">Reprise de JOGOS DE CAMPEONATO SERGIPANO</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219190000 -0000" stop="20250219192000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS AO VIVO</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219192000 -0000" stop="20250219193000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS AO VIVO</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219193000 -0000" stop="20250219200000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS AO VIVO</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219200000 -0000" stop="20250219210000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS AO VIVO</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219210000 -0000" stop="20250219213000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219213000 -0000" stop="20250219220000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219220000 -0000" stop="20250219223000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219223000 -0000" stop="20250219230000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219230000 -0000" stop="20250219000000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219000000 -0000" stop="20250219010000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010000 -0000" stop="20250219020000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219020000 -0000" stop="20250219030000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219030000 -0000" stop="20250219034500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219034500 -0000" stop="20250219035500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219035500 -0000" stop="20250219040000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219040000 -0000" stop="20250219044500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219044500 -0000" stop="20250219045500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219045500 -0000" stop="20250219050000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219050000 -0000" stop="20250219053000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219053000 -0000" stop="20250219060000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219060000 -0000" stop="20250219070000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219070000 -0000" stop="20250219074500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219074500 -0000" stop="20250219075000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219075000 -0000" stop="20250219085000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219085000 -0000" stop="20250219090000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219090000 -0000" stop="20250219100000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA A BAGACERIA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219100000 -0000" stop="20250219103000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA A BAGACERIA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219103000 -0000" stop="20250219110000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA A BAGACERIA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219110000 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">REPRISE PROGRAMA ANDREIA BRAGA</title>
+    <desc lang="pt">Programa une informação, debate de temas atuais, música, dança, contando com a interação do público e especialistas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219131500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219131500 -0000" stop="20250219132500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219132500 -0000" stop="20250219140000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140000 -0000" stop="20250219143000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219143000 -0000" stop="20250219153000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219153000 -0000" stop="20250219160000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219160000 -0000" stop="20250219170000 -0000" channel="9999">
+    <title lang="pt">REPRISE DO PROGRRAMA EU E VOCÊ</title>
+    <desc lang="pt">Programa de bate papo com a Jornalista Thaís Cristina </desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219170000 -0000" stop="20250219175500 -0000" channel="9999">
+    <title lang="pt">ITA PEDRA BAIANA BONITA</title>
+    <desc lang="pt">Documentario sobre a cidade de Itabaiana/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219175500 -0000" stop="20250219190000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprises de programas passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219190000 -0000" stop="20250219210000 -0000" channel="9999">
+    <title lang="pt">ITNET NOTICIAS AO VIVO</title>
+    <desc lang="pt">Jornal da cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219210000 -0000" stop="20250219230000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA A BAGACERIA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219230000 -0000" stop="20250219000000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">Shows da cidade de Itabaiana/se</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219000000 -0000" stop="20250219010000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010000 -0000" stop="20250219014500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219014500 -0000" stop="20250219015000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219015000 -0000" stop="20250219023500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219023500 -0000" stop="20250219024000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219024000 -0000" stop="20250219024500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219024500 -0000" stop="20250219034500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219034500 -0000" stop="20250219035500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219035500 -0000" stop="20250219040000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219040000 -0000" stop="20250219050000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219050000 -0000" stop="20250219060000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219060000 -0000" stop="20250219063000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219063000 -0000" stop="20250219070000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219070000 -0000" stop="20250219073000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219073000 -0000" stop="20250219081500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219081500 -0000" stop="20250219084500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219084500 -0000" stop="20250219085500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219085500 -0000" stop="20250219090000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219090000 -0000" stop="20250219100000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219100000 -0000" stop="20250219110000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219110000 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprises de programas já passados na TV I tnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219124500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219124500 -0000" stop="20250219130000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219130000 -0000" stop="20250219134500 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219134500 -0000" stop="20250219135000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219135000 -0000" stop="20250219140000 -0000" channel="9999">
+    <title lang="pt">REPRISE ITNET NOTICIAS</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140000 -0000" stop="20250219153000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219153000 -0000" stop="20250219160000 -0000" channel="9999">
+    <title lang="pt">DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219160000 -0000" stop="20250219180000 -0000" channel="9999">
+    <title lang="pt">MISSA DAS GRAÇAS DA SEGUNDA FEIRA </title>
+    <desc lang="pt">Missa das Graças da Igreja Santo Antônio e Almas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219180000 -0000" stop="20250219190000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprises de programas já passados na TV I tnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219190000 -0000" stop="20250219210000 -0000" channel="9999">
+    <title lang="pt">Itnet Noticias</title>
+    <desc lang="pt">Jornal da Cidade</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219210000 -0000" stop="20250219213000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219213000 -0000" stop="20250219220000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219220000 -0000" stop="20250219230000 -0000" channel="9999">
+    <title lang="pt">REPRISE DE ESTRELA À BAGACEIRA</title>
+    <desc lang="pt">Programa de humor, com apresentação de artistas e muita fofoca</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219230000 -0000" stop="20250219000000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219000000 -0000" stop="20250219010000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010000 -0000" stop="20250219010500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010500 -0000" stop="20250219011500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219011500 -0000" stop="20250219021500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219021500 -0000" stop="20250219030000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219030000 -0000" stop="20250219040000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219040000 -0000" stop="20250219050000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219050000 -0000" stop="20250219060000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219060000 -0000" stop="20250219063000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219063000 -0000" stop="20250219070000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219070000 -0000" stop="20250219075500 -0000" channel="9999">
+    <title lang="pt">ITA PEDRA BAIANA BONITA</title>
+    <desc lang="pt">Documentario da cidade de Itabaiana/SE</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219075500 -0000" stop="20250219080000 -0000" channel="9999">
+    <title lang="pt">Reprise de missas</title>
+    <desc lang="pt">reprise de missas da Igreja Santo Antonio e Almas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219080000 -0000" stop="20250219080500 -0000" channel="9999">
+    <title lang="pt">Reprise de missas</title>
+    <desc lang="pt">reprise de missas da Igreja Santo Antonio e Almas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219080500 -0000" stop="20250219081500 -0000" channel="9999">
+    <title lang="pt">Reprise de missas</title>
+    <desc lang="pt">reprise de missas da Igreja Santo Antonio e Almas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219081500 -0000" stop="20250219090000 -0000" channel="9999">
+    <title lang="pt">Reprise de missas</title>
+    <desc lang="pt">reprise de missas da Igreja Santo Antonio e Almas</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219090000 -0000" stop="20250219100000 -0000" channel="9999">
+    <title lang="pt">REPRISE CAMPEONATO SERGIPANO</title>
+    <desc lang="pt">Reprise de jogos do Campeonato Sergipano</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219100000 -0000" stop="20250219101500 -0000" channel="9999">
+    <title lang="pt">REPRISE CAMPEONATO SERGIPANO</title>
+    <desc lang="pt">Reprise de jogos do Campeonato Sergipano</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219101500 -0000" stop="20250219110000 -0000" channel="9999">
+    <title lang="pt">REPRISE CAMPEONATO SERGIPANO</title>
+    <desc lang="pt">Reprise de jogos do Campeonato Sergipano</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219110000 -0000" stop="20250219113000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219113000 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219140000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140000 -0000" stop="20250219150000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219150000 -0000" stop="20250219153000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219153000 -0000" stop="20250219183000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219183000 -0000" stop="20250219190000 -0000" channel="9999">
+    <title lang="pt">AQUI VALE A PENA VER DE NOVO</title>
+    <desc lang="pt">Reprise de programas já passados na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219190000 -0000" stop="20250219200000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219200000 -0000" stop="20250219203000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219203000 -0000" stop="20250219210000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219210000 -0000" stop="20250219220000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219220000 -0000" stop="20250219230000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219230000 -0000" stop="20250219000000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219000000 -0000" stop="20250219010000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219010000 -0000" stop="20250219020000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219020000 -0000" stop="20250219030000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219030000 -0000" stop="20250219030500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219030500 -0000" stop="20250219034000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219034000 -0000" stop="20250219035000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219035000 -0000" stop="20250219045000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219045000 -0000" stop="20250219050000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219050000 -0000" stop="20250219053000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219053000 -0000" stop="20250219063000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219063000 -0000" stop="20250219070000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219070000 -0000" stop="20250219080000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219080000 -0000" stop="20250219083000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219083000 -0000" stop="20250219091500 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219091500 -0000" stop="20250219101500 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219101500 -0000" stop="20250219110000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219110000 -0000" stop="20250219120000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219120000 -0000" stop="20250219123000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219123000 -0000" stop="20250219130000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219130000 -0000" stop="20250219140000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219140000 -0000" stop="20250219150000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219150000 -0000" stop="20250219153000 -0000" channel="9999">
+    <title lang="pt">CAMPEONATO SERGIPANO</title>
+    <desc lang="pt">Reprise de jogos do Campeonato Sergipano</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219153000 -0000" stop="20250219173000 -0000" channel="9999">
+    <title lang="pt">CAMPEONATO SERGIPANO</title>
+    <desc lang="pt">Reprise de jogos do Campeonato Sergipano</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219173000 -0000" stop="20250219200000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219200000 -0000" stop="20250219210000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219210000 -0000" stop="20250219220000 -0000" channel="9999">
+    <title lang="pt">AQUI TAMBÉM VALE  A PENA VER DE NOVO</title>
+    <desc lang="pt">Programas reprisados já passado na TV Itnet</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219220000 -0000" stop="20250219223000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219223000 -0000" stop="20250219230000 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219230000 -0000" stop="20250219234500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20250219234500 -0000" stop="20250220001500 -0000" channel="9999">
+    <title lang="pt">LIVES</title>
+    <desc lang="pt">SHOWS</desc>
+    <category lang="pt">Entretenimento</category>
+    <rating system="MPAA">
+      <value>G</value>
+    </rating>
+  </programme>
+</tv>
